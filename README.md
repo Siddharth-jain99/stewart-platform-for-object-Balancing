@@ -10,4 +10,4 @@ Debugging - wont be necessary but just incase
 
 
 Incase of any issues, kindly contact:
-Siddharth Jain sjain238@asu.edu +1(623) 326-7382
+Siddharth Jain sjain238@asu.edu
